@@ -1,1 +1,1 @@
-This package implements a quadratic program solver.
+This package implements a Judicious and Clear Quadratic Program solver.
